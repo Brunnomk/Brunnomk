@@ -156,11 +156,26 @@ Software Engineering ███████░░░░░░░░░░  In pro
 
 <div align="center">
 
-  <a href="mailto:Brunno.mkti@gmail.com">
+  <a href="https://www.brunnodev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
+  </a>
+  <a href="mailto:Brunno.mkti@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
   </a>
   <a href="https://github.com/Brunnomk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/brunno-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/351931139472" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-00ff41?style=for-the-badge&logo=whatsapp&logoColor=000000" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/software_engineer_brunno/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-00ff41?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/https://www.facebook.com/profile.php?id=61558518447095" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-00ff41?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook" />
   </a>
 
 </div>
