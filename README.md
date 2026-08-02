@@ -1,104 +1,48 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=130&section=header&text=BRUNNO%20XAVIER%20DE%20OLIVEIRA&fontColor=000000&fontSize=32&animation=fadeIn&fontAlignY=35)
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=200&section=header&text=BRUNNO%20XAVIER&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 
-# `> SOFTWARE ENGINEER | FULL STACK DEVELOPER`
+<!-- TYPING DIRECTIVE -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=SOFTWARE+ENGINEER+%7C+FULL+STACK+SPECIALIST;Architecting+High-Performance+Distributed+Systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular+%E2%80%A2+PostgreSQL;Engineering+Clean%2C+Resilient+%26+Scalable+Solutions" alt="Typing Banner" />
+</a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Distributed+Systems+%7C+Event-Driven+Architecture;Java+%7C+Spring+Boot+%7C+Angular+%7C+React+%7C+PostgreSQL;Designing+Scalable+and+Resilient+Web+Applications)
+<br/><br/>
+
+<!-- SYSTEM STATUS TERMINAL -->
+<table>
+  <tr>
+    <td align="center" bgcolor="#0d1117">
+      <code><b>SYSTEM STATUS:</b> <font color="#00ff41">● ONLINE</font></code> &nbsp;|&nbsp;
+      <code><b>LOCATION:</b> <font color="#00ff41">PORTUGAL</font></code> &nbsp;|&nbsp;
+      <code><b>FOCUS:</b> <font color="#00ff41">BACKEND & SYSTEM DESIGN</font></code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
+## `<overview>`
 
-```txt
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   SYSTEM STATUS: ONLINE                                      ║
-║   ENGINEER: BRUNNO XAVIER DE OLIVEIRA                        ║
-║   ROLE: SOFTWARE ENGINEER / FULL STACK                       ║
-║   FOCUS: DISTRIBUTED SYSTEMS, CLEAN ARCHITECTURE & APIS      ║
-║   STACK: JAVA • SPRING BOOT • REACT • ANGULAR • SQL          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+```yaml
+engineer:
+  name: "Brunno Xavier de Oliveira"
+  role: "Software Engineer / Full Stack Developer"
+  core_stack: ["Java", "Spring Boot", "TypeScript", "React", "Angular", "PostgreSQL"]
+  architecture_patterns: ["Domain-Driven Design (DDD)", "Clean Architecture", "Event-Driven", "REST Microservices"]
+  mission: "Building scalable distributed architectures and robust enterprise web solutions with zero-downtime resilience."
 
-> engineering_overview
-Desenvolvedor Full Stack focado na construção de sistemas escaláveis, resilientes e de alta disponibilidade. Atuo no desenho e implementação de arquiteturas orientadas a microsserviços e monolitos modulares, aplicando Clean Architecture, DDD (Domain-Driven Design) e boas práticas de API RESTful.
+  <architecture_stack>
+Core Backend & Cloud
+Frontend & Reactive Interfaces
+<flagship_projects>
+<telemetry_&_metrics>
+<engineering_manifesto>
 
-Experiência sólida na integração de aplicações backend resilientes em Java (Spring Boot) com interfaces reativas no frontend em React e Angular, além de otimização de consultas e modelagem de dados relacionais em PostgreSQL.
-
-> core_competencies
-
-[01] Architecture: Clean Architecture, RESTful APIs, Event-Driven & Microservices
-[02] Backend Engineering: Distributed Systems, Authentication (OAuth2/JWT), Spring Ecosystem
-[03] Frontend Engineering: State Management, Reactive UI Components (Angular/React), Performance Tuning
-[04] Database Management: Data Modeling, Query Optimization & Indexing (PostgreSQL/MySQL)
-[05] DevOps & Tooling: Containerization (Docker), Version Control (Git/GitHub), CI/CD Workflows
-
-> tech_stack
-Backend & Core Engineering
-Frontend & UI Architecture
-Tools & Ecosystem
-
-🔹 MesaLivre — Enterprise Restaurant Management Platform
-Plataforma Full Stack para gestão e orquestração de reservas em tempo real com alta consistência de dados.
-
-Stack: Java, Spring Boot, PostgreSQL, Angular, TailWind CSS
-
-Arquitetura & Highlights:
-
-Implementação de regras de negócio complexas para prevenção de overbooking através de bloqueios otimistas em banco de dados.
-
-APIs RESTful documentadas e protegidas por Spring Security e JWT.
-
-Dashboard administrativo responsivo integrado a métricas operacionais em tempo real.
-
-🔹 VoteLive — Real-Time Event-Driven Voting System
-Sistema de votação em tempo real projetado para suportar alto volume de requisições simultâneas e entrega de resultados com baixa latência.
-
-Stack: Java, Spring Boot, React, WebSocket, PostgreSQL
-
-Arquitetura & Highlights:
-
-Comunicação bidirecional via WebSocket para sincronização imediata do ranking de votos sem necessidade de polling.
-
-Modelagem de banco focada na consistência de escritas simultâneas durante picos de tráfego.
-
-Dashboard reativo com métricas consolidadas em tempo real no frontend.
-
-🔹 RouteFlow — Logistics & Route Optimization Engine
-Solução focada em inteligência logística e otimização visual de circuitos de entrega.
-
-Stack: JavaScript (ES6+), Algorithms, Leaflet/Maps API
-
-Arquitetura & Highlights:
-
-Algoritmos de ordenação e distribuição espacial de rotas para redução de tempo operacional.
-
-Interface interativa focada em usabilidade e redução de tempo de despacho logístico.
-
-🔹 CodeClash — Automated Code Evaluation & Ranking System
-Plataforma de desafios técnicos com execução e avaliação assíncrona de código.
-
-Stack: Java, Spring Boot, Docker Engine API, React
-
-Arquitetura & Highlights:
-
-Conceito arquitetural baseado no isolamento de execução de código via containers efêmeros.
-
-Cálculo dinâmico de leaderboard e métricas de desempenho do desenvolvedor.
-
-> github_analytics
-> contribution_matrix
-> engineering_principles
-
-Maintainability over quick fixes.
-Domain clarity drives database design.
-Scalability is built, not patched.
-Automated testing ensures continuous delivery.
-Code for developers to read, compile for machines to execute.
-
-Executing process...
-System ready for production.
-
+01. ARCHITECTURE FIRST: Code without structure is technical debt in disguise.
+02. PERFORMANCE & SCALABILITY: Build systems that handle scale gracefully under stress.
+03. CLEAN DOMAIN DESIGN: Clear business logic decouples systems and drives maintainability.
+04. CONTINUOUS REFINEMENT: Test, benchmark, profile, optimize, repeat.
