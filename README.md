@@ -310,10 +310,14 @@ Software Engineering ███████░░░░░░░░░░  In pro
 01000110 01101111 01101100 01101100 01101111 01110111 00100000 01110100 01101000 01100101 00100000 01100011 01101111 01100100 01100101
 ```
 
-### `> THE MATRIX HAS YOU...`
+<div align="center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=Build+systems.;Solve+problems.;Write+clean+code.;Deploy+ideas.;Repeat+until+master.io/typing-svg)
+## `> THE MATRIX HAS YOU...`
 
-![Footer](https://capsule-render.vercel.app/api?typelor=00ff41&height=120&section=footer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=Build+systems.;Solve+problems.;Write+clean+code.;Deploy+ideas.;Repeat+until+master.)](https://github.com/Brunnomk)
+
+<br />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer)
 
 </div>
