@@ -1,41 +1,54 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=200&section=header&text=BRUNNO%20XAVIER&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=180&section=header&text=MesaLivre%20API&fontColor=ffffff&fontSize=38&animation=fadeIn)
 
-<!-- TYPING DIRECTIVE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=SOFTWARE+ENGINEER+%7C+FULL+STACK+SPECIALIST;Architecting+High-Performance+Distributed+Systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Angular+%E2%80%A2+PostgreSQL;Engineering+Clean%2C+Resilient+%26+Scalable+Solutions" alt="Typing Banner" />
-</a>
+# 🍽️ MesaLivre — Enterprise Reservation Engine
 
-<br/><br/>
+[![Build Status](https://img.shields.io/badge/Build-Passing-00ff41?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Brunnomk)
+[![Java Version](https://img.shields.io/badge/Java-17%2B-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)](https://openjdk.org)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-000000?style=for-the-badge&logo=springboot&logoColor=00ff41)](https://spring.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)](https://postgresql.org)
 
-<!-- SYSTEM STATUS TERMINAL -->
-<table>
-  <tr>
-    <td align="center" bgcolor="#0d1117">
-      <code><b>SYSTEM STATUS:</b> <font color="#00ff41">● ONLINE</font></code> &nbsp;|&nbsp;
-      <code><b>LOCATION:</b> <font color="#00ff41">PORTUGAL</font></code> &nbsp;|&nbsp;
-      <code><b>FOCUS:</b> <font color="#00ff41">BACKEND & SYSTEM DESIGN</font></code>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Plataforma de orquestração e gestão de reservas em restaurantes projetada para alta concorrência e consistência transacional.</b>
+</p>
 
 </div>
 
 ---
 
-## `<overview>`
+## 🛠️ Arquitetura e Decisões de Engenharia
 
-```yaml
-engineer:
-  name: "Brunno Xavier de Oliveira"
-  role: "Software Engineer / Full Stack Developer"
-  core_stack: ["Java", "Spring Boot", "TypeScript", "React", "Angular", "PostgreSQL"]
-  architecture_patterns: ["Domain-Driven Design (DDD)", "Clean Architecture", "Event-Driven", "REST Microservices"]
-  mission: "Building scalable distributed architectures and robust enterprise web solutions with zero-downtime resilience."
+O **MesaLivre** foi concebido para resolver o problema clássico de *overbooking* em plataformas de agendamento em tempo real. A aplicação adota os princípios de **Clean Architecture** e **Domain-Driven Design (DDD)**.
 
-01. ARCHITECTURE FIRST: Code without structure is technical debt in disguise.
-02. PERFORMANCE & SCALABILITY: Build systems that handle scale gracefully under stress.
-03. CLEAN DOMAIN DESIGN: Clear business logic decouples systems and drives maintainability.
-04. CONTINUOUS REFINEMENT: Test, benchmark, profile, optimize, repeat.
+### 🎯 Diferenciais Técnicos:
+* **Controle de Concorrência:** Implementação de estratégias de *Optimistic Locking* (`@Version` no JPA) para evitar escritas conflitantes em picos de concorrência.
+* **Segurança Granular:** Autenticação via **JWT (JSON Web Token)** e autorização por papéis (*RBAC*) com Spring Security.
+* **Prevenção N+1 Query:** Mapeamento otimizado de entidades e uso de projeções DTO/Queries customizadas no Spring Data JPA.
+* **Frontend Reativo:** Interface reativa construída em Angular com manipulação de fluxos de dados assíncronos via **RxJS**.
+
+---
+
+## 💻 Tech Stack
+
+| Camada | Tecnologia |
+| :--- | :--- |
+| **Backend Framework** | Java 17, Spring Boot 3.x, Spring Data JPA, Spring Security |
+| **Database** | PostgreSQL, Flyway (Database Migration) |
+| **Frontend Framework** | Angular 16+, RxJS, TypeScript |
+| **Styling & UI** | Tailwind CSS / SCSS |
+| **Testing & Tools** | JUnit 5, Mockito, Postman, Docker |
+
+---
+
+## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+* Java 17+
+* Node.js 18+ & Angular CLI
+* Docker & Docker Compose
+
+### 1. Clocar o Repositório
+```bash
+git clone [https://github.com/Brunnomk/MesaLivre.git](https://github.com/Brunnomk/MesaLivre.git)
+cd MesaLivre
