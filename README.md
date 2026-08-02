@@ -35,13 +35,6 @@ engineer:
   architecture_patterns: ["Domain-Driven Design (DDD)", "Clean Architecture", "Event-Driven", "REST Microservices"]
   mission: "Building scalable distributed architectures and robust enterprise web solutions with zero-downtime resilience."
 
-  <architecture_stack>
-Core Backend & Cloud
-Frontend & Reactive Interfaces
-<flagship_projects>
-<telemetry_&_metrics>
-<engineering_manifesto>
-
 01. ARCHITECTURE FIRST: Code without structure is technical debt in disguise.
 02. PERFORMANCE & SCALABILITY: Build systems that handle scale gracefully under stress.
 03. CLEAN DOMAIN DESIGN: Clear business logic decouples systems and drives maintainability.
