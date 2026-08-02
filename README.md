@@ -23,31 +23,6 @@
 
 ---
 
-<div align="center">
-
-```txt
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ██████╗ ██╗   ██╗███╗   ██╗███╗   ██╗ ██████╗                    ║
-║   ██╔══██╗██╔══██╗██║   ██║████╗  ██║████╗  ██║██╔═══██╗                   ║
-║   ██████╔╝██████╔╝██║   ██║██╔██╗ ██║██╔██╗ ██║██║   ██║                   ║
-║   ██╔══██╗██╔══██╗██║   ██║██║╚██╗██║██║╚██╗██║██║   ██║                   ║
-║   ██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║ ╚████║╚██████╔╝                   ║
-║   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝                    ║
-║                                                                              ║
-║   ACCESS LEVEL: DEVELOPER MODE                                               ║
-║   PROFILE: BRUNNO XAVIER DE OLIVEIRA                                         ║
-║   ROLE: FULL STACK DEVELOPER IN PROGRESS                                     ║
-║   CORE: JAVA • SPRING BOOT • ANGULAR • REACT • SQL                           ║
-║   MISSION: BUILD REAL SOFTWARE, SOLVE REAL PROBLEMS                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## `> system.identity`
 
 <h3><code>brunno@matrix:~$ whoami</code></h3>
@@ -104,114 +79,11 @@ Meu objetivo é transformar estudo em execução real: desenvolver sistemas úte
 
 ---
 
-## `> system.main_projects`
-
 <div align="center">
 
-!ttps://capsule-render.vercel.app/api?type=rect&color=00ff41&height=3&section=header
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=3&section=header" width="100%" alt="Line Divider" />
 
 </div>
-
-### `01. MesaLivre`
-
-Sistema Full Stack para gestão de reservas em restaurantes.
-
-```txt
-STACK: Angular • Spring Boot • PostgreSQL
-STATUS: Em desenvolvimento e evolução contínua
-TYPE: Full Stack Web Application
-```
-
-**Principais recursos:**
-
-- Gestão de restaurantes
-- Cadastro e controle de mesas
-- Cadastro de clientes
-- Criação e listagem de reservas
-- Dashboard integrado com dados reais
-- Layout responsivo para desktop, tablet e mobile
-- Integração real entre frontend, backend e banco de dados
-
----
-
-### `02. votelive`
-
-Sistema de votação em tempo real com dashboard dinâmico.
-
-```txt
-STACK: React • Spring Boot • PostgreSQL • WebSocket
-STATUS: Funcional
-TYPE: Real-Time Web Application
-```
-
-**Principais recursos:**
-
-- Criação de enquetes
-- Cadastro de opções
-- Registro de votos
-- Resultado e ranking em tempo real
-- Integração via API REST
-- Comunicação em tempo real com WebSocket
-
----
-
-### `03. routeflow`
-
-Sistema web para organização e otimização de rotas de entrega.
-
-```txt
-STACK: JavaScript
-STATUS: Em desenvolvimento
-TYPE: Logistics Web Tool
-```
-
-**Objetivo do projeto:**
-
-- Apoiar o planejamento de circuitos
-- Organizar entregas de forma visual
-- Reduzir tempo de preparação de rotas
-- Criar base para soluções logísticas mais inteligentes
-
----
-
-### `04. codeclash`
-
-Plataforma de desafios entre programadores com ranking e avaliação de desempenho.
-
-```txt
-STACK: Full Stack
-STATUS: Conceito em expansão
-TYPE: Developer Challenge Platform
-```
-
-**Objetivo do projeto:**
-
-- Criar desafios de programação
-- Avaliar soluções automaticamente
-- Gerar ranking entre participantes
-- Trabalhar níveis de habilidade
-- Simular competição técnica entre desenvolvedores
-
----
-
-### `05. devfinance`
-
-Dashboard financeiro para controle de receitas, despesas e metas.
-
-```txt
-STACK: Web Application
-STATUS: Projeto de portfólio
-TYPE: Finance Dashboard
-```
-
-**Objetivo do projeto:**
-
-- Organizar receitas e despesas
-- Exibir resumo financeiro
-- Trabalhar visualização de dados
-- Praticar lógica de dashboard e controle financeiro
-
----
 
 ## `> system.github_intelligence`
 
