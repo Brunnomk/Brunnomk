@@ -1,92 +1,319 @@
-# Brunno Xavier de Oliveira
-**Software Engineer | Full Stack Specialist**
+<div align="center">
 
-Estremoz, Portugal • [Brunno.mkti@gmail.com](mailto:Brunno.mkti@gmail.com) • [LinkedIn](https://linkedin.com) • [GitHub](https://github.com/Brunnomk)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=170&section=header&text=BRUNNO%20XAVIER%20DE%20OLIVEIRA&fontColor=000000&fontSize=38&animation=fadeIn&fontAlignY=32&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=55&descSize=16)
 
----
+</div>
 
-## 📌 Resumo Profissional
+<div align="center">
 
-Engenheiro de Software com foco em desenvolvimento **Full Stack**, especializado em arquitetura de sistemas corporativos, microsserviços e aplicações web resilientes. Domínio no ecossistema **Java (Spring Boot)** para desenvolvimento backend e frameworks reativos (**Angular** e **React**) para o frontend, aliado à modelagem e otimização de bancos de dados relacionais (**PostgreSQL**).
+# `> WAKE UP, DEVELOPER...`
 
-Experiência no desenho de soluções alinhadas aos princípios de **Clean Architecture**, **Domain-Driven Design (DDD)** e **Padrões de Projeto (Design Patterns)**, garantindo manutenibilidade, escalabilidade e alta disponibilidade.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=700&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing+Full+Stack+Developer+Profile...;Access+Granted+to+Brunno's+Matrix;Java+%7C+Spring+Boot+%7C+Angular+%7C+React+%7C+PostgreSQL;Building+Real-World+Applications;Code+Fix.+Improve.;Welcome+to+my+Digital+Universe)](https://github.com/Brunnomk)
 
----
+</div>
 
-## 🛠️ Domínio Técnico
+<div align="center">
 
-| Categoria | Tecnologias e Ferramentas |
-| :--- | :--- |
-| **Linguagens de Programação** | Java (17+), TypeScript, JavaScript (ES6+) |
-| **Backend & Frameworks** | Spring Boot, Spring Security, Spring Data JPA, RESTful APIs, Node.js |
-| **Frontend & UI Architecture** | Angular, React, RxJS, HTML5, CSS3, SCSS, Tailwind CSS |
-| **Bancos de Dados & ORM** | PostgreSQL, MySQL, Hibernate |
-| **Arquitetura & Metodologias** | Clean Architecture, DDD, Programação Orientada a Objetos (POO), OAuth2 / JWT |
-| **DevOps & Ferramentas** | Docker, Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code |
+![Profile Views](https://komarev.com/ghpvc/?username=Brunnomk&label=PROFILE+VIEWS&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-BUILDING%20REAL%20PROJECTS-00ff41?style=for-the-badge&logoColor=000000)
+![Focus](https://img.shields.io/badge/FOCUS-FULLSTACK-00ff41?style=for-the-badge&logo=matrix&logoColor=000000)
+![Location](https://img.shields.io/badge/PORTUGAL-ESTREMOZ-00ff41?style=for-the-badge&logoColor=000000)
+
+</div>
 
 ---
 
-## 🚀 Projetos de Engenharia em Destaque
+<div align="center">
 
-### 🍽️ MesaLivre — Plataforma de Gestão e Reservas Empresariais
-Sistema Full Stack desenvolvido para gerenciar e otimizar reservas em restaurantes, resolvendo problemas de consistência de dados em cenários de acessos simultâneos.
+```txt
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ██████╗ ██╗   ██╗███╗   ██╗███╗   ██╗ ██████╗                    ║
+║   ██╔══██╗██╔══██╗██║   ██║████╗  ██║████╗  ██║██╔═══██╗                   ║
+║   ██████╔╝██████╔╝██║   ██║██╔██╗ ██║██╔██╗ ██║██║   ██║                   ║
+║   ██╔══██╗██╔══██╗██║   ██║██║╚██╗██║██║╚██╗██║██║   ██║                   ║
+║   ██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║ ╚████║╚██████╔╝                   ║
+║   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝                    ║
+║                                                                              ║
+║   ACCESS LEVEL: DEVELOPER MODE                                               ║
+║   PROFILE: BRUNNO XAVIER DE OLIVEIRA                                         ║
+║   ROLE: FULL STACK DEVELOPER IN PROGRESS                                     ║
+║   CORE: JAVA • SPRING BOOT • ANGULAR • REACT • SQL                           ║
+║   MISSION: BUILD REAL SOFTWARE, SOLVE REAL PROBLEMS                          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-* **Decisões de Arquitetura:**
-  * Implementação de estratégias de *Locking* (Otimista e Pessimista) no PostgreSQL para prevenção de conflitos de reserva e *overbooking*.
-  * Camada de autenticação e autorização centralizada via Spring Security utilizando **JWT** com controle de acesso baseado em papéis (RBAC).
-  * Otimização de desempenho com paginação de dados e uso de DTOs (*Data Transfer Objects*) para evitar o problema de consulta $N+1$.
-* **Tecnologias:** Java 17, Spring Boot, PostgreSQL, Angular, RxJS, Tailwind CSS.
-
----
-
-### 🗳️ VoteLive — Sistema de Votação em Tempo Real com Alta Volumetria
-Engenharia de sistema voltada para processamento de votos e exibição de dashboards analíticos com baixa latência.
-
-* **Decisões de Arquitetura:**
-  * Utilização de **WebSockets** para comunicação bidirecional e atualização de métricas em tempo real no frontend, eliminando a necessidade de requisições contínuas (*polling*).
-  * Modelagem de dados voltada para consistência de escritas concorrentes durante picos de tráfego.
-* **Tecnologias:** Java, Spring Boot, React, WebSockets, PostgreSQL.
-
----
-
-### 📦 RouteFlow — Motor de Otimização e Planejamento Logístico
-Aplicação voltada para o planejamento, organização e otimização visual de circuitos e rotas de entrega.
-
-* **Decisões de Arquitetura:**
-  * Algoritmos de ordenação e distribuição espacial para otimização do tempo de despacho logístico.
-  * Integração com APIs de geolocalização para renderização e manipulação interativa de rotas.
-* **Tecnologias:** JavaScript (ES6+), Leaflet API, HTML5/CSS3.
+</div>
 
 ---
 
-### 🛡️ CodeClash — Plataforma de Avaliação Assíncrona de Código
-Ambiente para execução e benchmarking de desafios técnicos de programação.
+## `> system.identity`
 
-* **Decisões de Arquitetura:**
-  * Isolamento de ambiente para execução segura de código via *containers* efêmeros em Docker.
-  * Cálculo assíncrono de pontuação e ranking de desempenho.
-* **Tecnologias:** Java, Spring Boot, Docker Engine API, React.
+<h3><code>brunno@matrix:~$ whoami</code></h3>
 
----
+<p>
+<code>> Brunno | Software Engineering Student & Web Developer</code><br/>
+<code>> Location: Portugal 🇵🇹</code><br/>
+<code>> Focus: Frontend, React & Systems Engineering</code><br/>
+<code>> Status: Building projects & sharpening skills.</code>
+</p>
 
-## 📊 Estatísticas e Atividade no GitHub
+Sou estudante de **Engenharia de Software** e desenvolvedor focado em criar aplicações web reais, com backend sólido, frontend responsivo, banco de dados bem estruturado e uma visão prática de produto.
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Brunnomk&show_icons=true&theme=flat&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunnomk&layout=compact&theme=flat&hide_border=true&title_color=0969da&text_color=24292f&bg_color=ffffff" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+Atualmente estou evoluindo no desenvolvimento **Full Stack**, construindo projetos com **Java, Spring Boot, Angular, React, PostgreSQL, MySQL, TypeScript e APIs REST**.
+
+Meu objetivo é transformar estudo em execução real: desenvolver sistemas úteis, bem organizados, escaláveis e com apresentação profissional.
 
 ---
 
-## 📐 Princípios de Desenvolvimento
+## `> system.core_focus`
 
-1. **Simplicidade e Manutenibilidade:** Código limpo e autodocumentado é prioridade sobre soluções excessivamente complexas.
-2. **Design Orientado ao Domínio:** O modelo de dados e as regras de negócio devem refletir com precisão os processos do mundo real.
-3. **Segurança por Padrão:** Garantia de proteção de dados e autenticação robusta em todas as camadas da aplicação.
-4. **Qualidade Contínua:** Testes automatizados e revisão contínua de código para prevenir débitos técnicos.
+```txt
+[01] Backend robusto com Java, Spring Boot e APIs REST
+[02] Frontend moderno com Angular, React e TypeScript
+[03] Banco de dados relacional com PostgreSQL e MySQL
+[04] Dashboards, sistemas administrativos e interfaces responsivas
+[05] Projetos reais para portfólio profissional
+[06] Evolução contínua rumo ao nível Full Stack profissional
+```
+
+---
+
+## `> system.tech_stack`
+
+<div align="center">
+
+### `FRONTEND_INTERFACE`
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite,scss)
+
+### `BACKEND_CORE`
+
+![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,php,laravel)
+
+### `DATABASE_LAYER`
+
+![Database](https://skillicons.dev/icons?i=postgres,mysql)
+
+### `TOOLS_AND_WORKFLOW`
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker)
+
+</div>
+
+---
+
+## `> system.main_projects`
+
+<div align="center">
+
+!ttps://capsule-render.vercel.app/api?type=rect&color=00ff41&height=3&section=header
+
+</div>
+
+### `01. MesaLivre`
+
+Sistema Full Stack para gestão de reservas em restaurantes.
+
+```txt
+STACK: Angular • Spring Boot • PostgreSQL
+STATUS: Em desenvolvimento e evolução contínua
+TYPE: Full Stack Web Application
+```
+
+**Principais recursos:**
+
+- Gestão de restaurantes
+- Cadastro e controle de mesas
+- Cadastro de clientes
+- Criação e listagem de reservas
+- Dashboard integrado com dados reais
+- Layout responsivo para desktop, tablet e mobile
+- Integração real entre frontend, backend e banco de dados
+
+---
+
+### `02. votelive`
+
+Sistema de votação em tempo real com dashboard dinâmico.
+
+```txt
+STACK: React • Spring Boot • PostgreSQL • WebSocket
+STATUS: Funcional
+TYPE: Real-Time Web Application
+```
+
+**Principais recursos:**
+
+- Criação de enquetes
+- Cadastro de opções
+- Registro de votos
+- Resultado e ranking em tempo real
+- Integração via API REST
+- Comunicação em tempo real com WebSocket
+
+---
+
+### `03. routeflow`
+
+Sistema web para organização e otimização de rotas de entrega.
+
+```txt
+STACK: JavaScript
+STATUS: Em desenvolvimento
+TYPE: Logistics Web Tool
+```
+
+**Objetivo do projeto:**
+
+- Apoiar o planejamento de circuitos
+- Organizar entregas de forma visual
+- Reduzir tempo de preparação de rotas
+- Criar base para soluções logísticas mais inteligentes
+
+---
+
+### `04. codeclash`
+
+Plataforma de desafios entre programadores com ranking e avaliação de desempenho.
+
+```txt
+STACK: Full Stack
+STATUS: Conceito em expansão
+TYPE: Developer Challenge Platform
+```
+
+**Objetivo do projeto:**
+
+- Criar desafios de programação
+- Avaliar soluções automaticamente
+- Gerar ranking entre participantes
+- Trabalhar níveis de habilidade
+- Simular competição técnica entre desenvolvedores
+
+---
+
+### `05. devfinance`
+
+Dashboard financeiro para controle de receitas, despesas e metas.
+
+```txt
+STACK: Web Application
+STATUS: Projeto de portfólio
+TYPE: Finance Dashboard
+```
+
+**Objetivo do projeto:**
+
+- Organizar receitas e despesas
+- Exibir resumo financeiro
+- Trabalhar visualização de dados
+- Praticar lógica de dashboard e controle financeiro
+
+---
+
+## `> system.github_intelligence`
+
+<div align="center">
+
+<!-- Gráfico de Atividade Estável (Lowlighter Metrics / Activity) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brunnomk&theme=react-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+## `> system.trophy_room`
+
+<div align="center">
+
+<!-- Badges Estáveis (Shields.io - 100% Uptime) -->
+<img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00ff41?style=for-the-badge&labelColor=000000&logo=github&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/MAIN_LANGUAGE-JAVASCRIPT-00ff41?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-ACTIVE-00ff41?style=for-the-badge&labelColor=000000" />
+
+<br/><br/>
+
+<!-- Contador de Visitas e Status Estético Terminal -->
+<img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-00ff41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff41?style=flat-square&labelColor=000000" />
+<img src="https://img.shields.io/badge/DATABASE-CONNECTED-00ff41?style=flat-square&labelColor=000000" />
+
+</div>
+
+---
+
+## `> system.current_mission`
+
+```txt
+SYSTEM OBJECTIVES:
+
+[ACTIVE] Master Java and Spring Boot with depth
+[ACTIVE] Build real Full Stack projects
+[ACTIVE] Improve SQL, database modeling and API design
+[ACTIVE] Strengthen Angular, React and TypeScript
+[ACTIVE] Create professional portfolio projects
+[ACTIVE] Prepare for real developer opportunities
+```
+
+---
+
+## `> system.development_principles`
+
+```txt
+Clean code over rushed code.
+Real projects over tutorials only.
+Consistency over motivation.
+Strong fundamentals over shortcuts.
+Build, break, fix, improve.
+Learn deeply. Execute daily. Evolve constantly.
+```
+
+---
+
+## `> system.learning_path`
+
+```txt
+CURRENT PATH:
+
+Java                 █████████░░░░░░░░  In progress
+Spring Boot          ████████░░░░░░░░░  In progress
+Angular              ████████░░░░░░░░░  In progress
+React                ███████░░░░░░░░░░  In progress
+PostgreSQL           ████████░░░░░░░░░  In progress
+SQL                  ████████░░░░░░░░░  In progress
+Software Engineering ███████░░░░░░░░░░  In progress
+```
+
+---
+
+## `> system.connect`
+
+<div align="center">
+
+  <a href="mailto:Brunno.mkti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
+  </a>
+  <a href="https://github.com/Brunnomk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+01010111 01100001 01101011 01100101 00100000 01110101 01110000
+01000110 01101111 01101100 01101100 01101111 01110111 00100000 01110100 01101000 01100101 00100000 01100011 01101111 01100100 01100101
+```
+
+### `> THE MATRIX HAS YOU...`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=Build+systems.;Solve+problems.;Write+clean+code.;Deploy+ideas.;Repeat+until+master.io/typing-svg)
+
+![Footer](https://capsule-render.vercel.app/api?typelor=00ff41&height=120&section=footer
+
+</div>
