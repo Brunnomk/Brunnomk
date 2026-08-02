@@ -1,12 +1,4 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=170&section=header&text=BRUNNO%20XAVIER%20DE%20OLIVEIRA&fontColor=000000&fontSize=38&animation=fadeIn&fontAlignY=32&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=55&descSize=16)
-
-</div>
-
-<div align="center">
-
-# `> WAKE UP, DEVELOPER...`
+# `> Hello...`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=700&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing+Full+Stack+Developer+Profile...;Access+Granted+to+Brunno's+Matrix;Java+%7C+Spring+Boot+%7C+Angular+%7C+React+%7C+PostgreSQL;Building+Real-World+Applications;Code+Fix.+Improve.;Welcome+to+my+Digital+Universe)](https://github.com/Brunnomk)
 
@@ -189,7 +181,5 @@ Software Engineering ███████░░░░░░░░░░  In pro
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=Build+systems.;Solve+problems.;Write+clean+code.;Deploy+ideas.;Repeat+until+master.)](https://github.com/Brunnomk)
 
 <br />
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer)
 
 </div>
